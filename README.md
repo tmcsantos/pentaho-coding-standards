@@ -22,3 +22,6 @@ The Eclipse CheckStyle plugin documentation my be helpful: http://eclipse-cs.sou
 - Configure code style
   - Copy the`ide/intelliJ_codeStyleSettings.xml` into your IntelliJ project folder (`{{IdeaIntelliJProjectFolder}}/.idea/codeStyleSettings.xml`). Overwrite if it's already there.
   - Open IntelliJ, set the Project Settings -> Code Style -> Scheme to "Project"
+
+
+test
